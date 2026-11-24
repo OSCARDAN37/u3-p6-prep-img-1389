@@ -1,0 +1,11 @@
+Categoría,Archivo original,Lectura,Ancho original,Alto original,Ancho preparado,Alto preparado,Valor mínimo norm.,Valor máximo norm.,Evaluación
+papas,papa1.jpg,OK,1024,640,224,224,0.0,1.0,APROBADA
+papas,papa2.jpg,OK,720,392,224,224,0.0,1.0,APROBADA
+papas,papa3.jpg,OK,2000,960,224,224,0.0,1.0,APROBADA
+papas,papa4.jpg,OK,554,554,224,224,0.0,1.0,APROBADA
+papas,papa5.jpg,OK,600,400,224,224,0.0,1.0,APROBADA
+camotes,camote1.jpg,OK,554,554,224,224,0.0,1.0,APROBADA
+camotes,camote2.jpg,OK,447,447,224,224,0.0,1.0,APROBADA
+camotes,camote3.jpg,OK,1024,640,224,224,0.0,1.0,APROBADA
+camotes,camote4.jpg,OK,1080,1080,224,224,0.0,1.0,APROBADA
+camotes,camote5.jpg,OK,1000,563,224,224,0.004,0.808,APROBADA
